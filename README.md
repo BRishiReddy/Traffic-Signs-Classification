@@ -13,5 +13,5 @@ The model provides 95.68% accuracy with a loss of 0.12
 
 
 # Future Scope:
-1. Add an option to add a camera feature that can do live classification
+1. Add an option that allows user to use a camera that can classify the images in live.
 2. Real-Time application using IoT.
