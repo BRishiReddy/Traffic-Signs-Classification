@@ -1,7 +1,7 @@
 # Traffic-Signs-Classification
 
 This is a deep learning basic project that is used to classify the traffic signs.
-In this project I have used convolution neural network. The project can also classify images that are of less quality which maybe due to snow, fog, dust, very dim light and disorted images. 
+In this project I have used convolution neural network. The project can also classify images that are disorted due to snow, fog, dust, very dim light or no proper maintenance.
 
 The datasets used for this project are taken from kaggle.com.
 The model provides 95.68% accuracy with a loss of 0.12
